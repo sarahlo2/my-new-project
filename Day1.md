@@ -8,7 +8,9 @@ I am currently finishing my minor in **Bioinformatics**. <br/>
 So far I´ve completed the compulsory part of my **Microbiology** Master.
 
 # Your knowledge about R
+
 |Class|Skill|Level|
+|-----|-----|-----|
 |Data Visualisation|Extensive knowledge of ggplot|Intermediate|
 |STA121|Using statistical dataanalysis pipelines| Intermediate|
 
